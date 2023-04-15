@@ -1,0 +1,26 @@
+body {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: 0px;
+}
+
+#ball {
+    position: fixed;
+    width: 64px;
+    height: 64px;
+}
+
+#paddle1, #paddle2 {
+    position: fixed;
+    width: 24px;
+    height: 192px;
+}
+
+#scores {
+    position: fixed;
+    left: 50%;
+    font-size: xx-large;
+}
